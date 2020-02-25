@@ -1,3 +1,8 @@
 <mar release branch>
 This is new file which is required for mar release
 
+<master branch>
+This is a merge line adding to test work on conflict line
+
+<mar release branch>
+new file to test it
