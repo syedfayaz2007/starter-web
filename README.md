@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## New Content
 This is new content information
+
+## Copy Right
+new copy right rule
