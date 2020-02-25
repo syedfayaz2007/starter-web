@@ -10,5 +10,9 @@ This is a merge line adding to test work on conflict line
 <mar release branch>
 new file to test it
 
+<<<<<<< HEAD
 this is rebase testing from master branch - local
+=======
 github changes --> user syed
+added few lines
+>>>>>>> 8bbaa03ff1616daffd8f79dfc5056a2392e11008
