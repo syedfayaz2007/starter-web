@@ -4,3 +4,8 @@ This is new file which is required for mar release
 <<this is master branch changes
 to test the merge confilct>>
 
+<master branch>
+This is a merge line adding to test work on conflict line
+
+<mar release branch>
+new file to test it
